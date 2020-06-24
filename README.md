@@ -1,2 +1,4 @@
 # hello-world
-learn how to use github. (｡ì _ í｡)
+Thish website is great! 
+The goal is to learn how to use github. 
+
